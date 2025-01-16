@@ -1,4 +1,3 @@
 # project
 new project <br>
-hello there
-abc
+This is TicTacToe Game
